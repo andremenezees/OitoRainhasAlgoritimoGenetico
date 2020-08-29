@@ -15,3 +15,5 @@ A função de avaliação, retornará a resposta do quâo bom está a solução.
 O script de otimização será utilizado para chamar o pacote do algoritimo genético e fazer a busca da solução.
 
 Script de impressão tem a função de imprimir o resultado em um tabuleiro.
+
+Para executar o projeto deve-se executar primeiro os scripts, FuncaoAvaliacao.R e FuncaoImpressao.R e então o algoritimo genético que esta no arquivo ExecucaoAlgoritimo.R
