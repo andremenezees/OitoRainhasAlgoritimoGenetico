@@ -8,6 +8,7 @@ impressao <- function(d)
   library(imager)
   
   #Este comando serve para carregar a imagem do tabuleiro
+  #Executar esse comando e escolher a imagem tabuleiro.jpg
   image <- load.image(file.choose())
   plot(image)
   
